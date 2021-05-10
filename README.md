@@ -2,7 +2,7 @@
 
 ## Problems & Solutions
 
-[SQL Server](https://github.com/qiyuangong/leetcode/tree/master/python) 
+[SQL Server](https://github.com/jin2631816/leetcode_SQL) 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | --------------------- |
