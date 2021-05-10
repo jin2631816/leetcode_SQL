@@ -1,0 +1,5 @@
+/* Write your T-SQL query statement below */
+select Name as 'Customers' from Customers
+where id not in(
+select c.id from Customers c
+inner join Orders o on c.id = o.CustomerId)
