@@ -12,3 +12,6 @@
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/181.%20Employees%20Earning%20More%20Than%20Their%20Managers) | Easy |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/182.%20Duplicate%20Emails) | Easy |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/183.%20Customers%20Who%20Never%20Order) | Easy |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/184.%20Department%20Highest%20Salary) | Medium |
+
+
