@@ -14,6 +14,6 @@
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/183.%20Customers%20Who%20Never%20Order) | Easy |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/184.%20Department%20Highest%20Salary) | Medium |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/185.%20Department%20Top%20Three%20Salaries) | Hard |
-
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL Server](https://github.com/jin2631816/leetcode_SQL/blob/main/list/196.%20Delete%20Duplicate%20Emails) | Easy |
 
 
